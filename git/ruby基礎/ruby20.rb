@@ -7,4 +7,3 @@ def sleep_in(is_weekday, is_vacation)
 end
 
 sleep_in(false, false)
-end
