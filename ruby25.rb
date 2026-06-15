@@ -16,5 +16,4 @@ def fizz_buzz
   end
 end
 
-# メソッドの呼び出し
 fizz_buzz
